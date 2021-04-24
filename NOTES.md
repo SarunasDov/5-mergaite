@@ -10,7 +10,7 @@
 - [x] paviesinti projekta per Github Pages
 - [x] atlikti dizaino analize
 - [x] surasyti HTML
-- [ ] issikirpti nuotraukas ir jas panaudoti
+- [x] issikirpti nuotraukas ir jas panaudoti
     - panaudoti reliatyvu kelia
     - png formatas / permatomas
 - [ ] aprasome stiliu:
